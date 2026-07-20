@@ -1,7 +1,7 @@
 <h1 align="center">MyBio</h1>
 
 <p align="center">
-    <img alt="Projeto MyBio" src="img/Captura de tela 2026-07-20 143004.png">
+    <img alt="Projeto MyBio" src="bio/img/Captura de tela 2026-07-20 143004.png">
 </p>
 
 ## Tecnologias
